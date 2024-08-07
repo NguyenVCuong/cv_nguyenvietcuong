@@ -1,19 +1,12 @@
-# Trungquandev CV Online
-View Live Preview - https://cv.trungquandev.com
+# Nguyen Viet Cuong CV Online
+View Live Preview - https://nguyenvcuong.github.io/cv_nguyenvietcuong/
 
 ## Demo
-![trungquandev-cv-online](https://github.com/trungquandev/cv.trungquandev.com/blob/873d04c30cf6d2c4865b75f869ab4aec77d2bdda/public/img/demo-cv.png)
-
-## Credit
-This repo is based on [Start Bootstrap - Resume!](https://github.com/StartBootstrap/startbootstrap-resume) and developed by [Trungquandev Official ❤️](https://www.youtube.com/c/TrungquandevOfficial)
+(public/img/cv-demo.png)
 
 ## Signature
-Author: Trung Quân
+Author: Nguyen Viet Cuong
 
-Blog: https://trungquandev.com/
-
-CV: https://cv.trungquandev.com/
-
-"A little bit of fragrance always clings to the hands that gives flowers!"
+CV: https://nguyenvcuong.github.io/cv_nguyenvietcuong/
 
 Thanks for watching!
